@@ -1,5 +1,4 @@
 - 👋 Hi, I’m @KewinAl
-- 👀 I’m looking for a Job
 - 🌱 I’m currently learning Gamedesign with C# and Unity
 - 💞️ I’m looking to collaborate on anything.
 - 📫 How to reach me @KewinAl or kewin.allenspach@gmail.com
