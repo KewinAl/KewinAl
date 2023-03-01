@@ -1,7 +1,8 @@
-- 👋 Hi, I’m @KewinAl
-- 🌱 I’m currently learning Gamedesign with C# and Unity
-- 💞️ I’m looking to collaborate on anything.
-- 📫 How to reach me @KewinAl or kewin.allenspach@gmail.com
+- 👋 Hi, I’m @KewinAl (Kewin Allenspach)
+- 🎮 Gameprogramming with C# and Unity
+- 🔥 Fullstack Webdevelopment with React,Django and Docker
+- 🖥️ I’m looking to collaborate on Projects
+- 📫 How to reach me @KewinAl or allenspachkewin@gmail.com
 
 <!---
 KewinAl/KewinAl is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
