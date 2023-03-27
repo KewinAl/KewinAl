@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @KewinAl (Kewin Allenspach)
 - 🎮 Gameprogramming with C# and Unity
-- 🔥 Fullstack Webdevelopment with React,Django and Docker
+- 🔥 Fullstack Webdevelopment with React, Django and Docker
 - 🖥️ I am available for hire
 - 📫 How to reach me @KewinAl or allenspachkewin@gmail.com
 
